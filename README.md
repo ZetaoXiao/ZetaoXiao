@@ -10,13 +10,12 @@ As a newcomer, I come here to share my projects and learn.
 [![](https://img.shields.io/badge/windows10-292e33?style=flat-square&logo=microsoft&logoColor=ffffff)](https://www.microsoft.com/)
 [![](https://img.shields.io/badge/iPadpro2018-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/HUAWEI-P30pro-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huawei.com/)
- 
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZetaoXiao&show_icons=true&icon_color=0078e7&title_color=0078e7">
 #### Games
 
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZetaoXiao&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
 #### Languages
 
@@ -47,6 +46,9 @@ As a newcomer, I come here to share my projects and learn.
 <!-- prettier-ignore-end -->
 <!-- tools:end -->
 
+<p align = "center">
+<img src="https://activity-graph.herokuapp.com/graph?username=ZetaoXiao&theme=redical">
+</p>
 
 <!--
 **ZetaoXiao/ZetaoXiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
